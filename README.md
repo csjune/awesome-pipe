@@ -3,9 +3,14 @@
 A curated list of awesome pipe libraries and programming languages.
 
 - [Awesome Pipe](#awesome-pipe)
+  - [C++](#c++)
   - [Elixir](#elixir)
-  - [F#]()
+  - [F#](#f#)
   - [Python](#python)
+
+## C++
+
+- [Pipable functions in C++14](http://pfultz2.com/blog/2014/09/05/pipable-functions/)
 
 ## Elixir
 
