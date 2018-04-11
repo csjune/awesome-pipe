@@ -7,6 +7,8 @@ A curated list of awesome pipe libraries and programming languages.
   - [Elixir](#elixir)
   - [F#](#f#)
   - [Python](#python)
+  - [Ruby](#Ruby)
+  - [Rust](#Rust)
 
 ## C++
 
@@ -27,3 +29,14 @@ A curated list of awesome pipe libraries and programming languages.
 - [dg(dogelang)](https://pyos.github.io/dg/) - A programming language for the CPython VM
 - [Mochi](https://github.com/i2y/mochi) - Dynamically typed functional programming language
 - [pipe](https://pypi.python.org/pypi/pipe/) - Module enablig a sh like infix syntax (using pipes)
+
+## Ruby
+
+- [pipe_envy](https://github.com/hopsoft/pipe_envy) -  Elixir style pipe operator for Ruby
+- [piped_ruby](https://github.com/tiagopog/piped_ruby) - Pipe things in Ruby
+- [chainable_methods](https://github.com/akitaonrails/chainable_methods) - The most complete implementation of an Elixir/F#-like "Pipe" for Ruby in the form of "chainable methods"
+
+## Rust
+
+- [pipeline.rs](https://github.com/johannhof/pipeline.rs) -  ☔️ => ⛅️ => ☀️
+
