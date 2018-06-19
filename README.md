@@ -6,9 +6,10 @@ A curated list of awesome pipe libraries and programming languages.
   - [C++](#c++)
   - [Elixir](#elixir)
   - [F#](#f#)
+  - [Hack](#hack)
   - [Python](#python)
-  - [Ruby](#Ruby)
-  - [Rust](#Rust)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
 
 ## C++
 
@@ -16,12 +17,16 @@ A curated list of awesome pipe libraries and programming languages.
 
 ## Elixir
 
-- [|>/2](https://hexdocs.pm/elixir/Kernel.html#|%3E/2) - Elixir documentation
+- [|>/2](https://hexdocs.pm/elixir/Kernel.html#|%3E/2) - Elixir Documentation
 - [Pipe Operator](https://elixirschool.com/en/lessons/basics/pipe-operator/) - Elixir School
 
 ## F#
 
 - [Understanding the “pipe” function](https://fsharpforfunandprofit.com/posts/partial-application/#understanding-the-pipe-function) - F# for fun and profit
+
+## Hack
+
+- [Operators: Pipe Operator](https://docs.hhvm.com/hack/operators/pipe-operator) - Hack Documentation
 
 ## Python
 
