@@ -7,6 +7,7 @@ A curated list of awesome pipe libraries and programming languages.
   - [Elixir](#elixir)
   - [F#](#f#)
   - [Hack](#hack)
+  - [LiveScript](#livescript)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -27,6 +28,10 @@ A curated list of awesome pipe libraries and programming languages.
 ## Hack
 
 - [Operators: Pipe Operator](https://docs.hhvm.com/hack/operators/pipe-operator) - Hack Documentation
+
+## LiveScript
+
+- [Piping](http://livescript.net/#piping) - a language which compiles to JavaScript
 
 ## Python
 
