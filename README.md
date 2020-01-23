@@ -3,6 +3,7 @@
 A curated list of awesome pipe libraries and programming languages.
 
 - [Awesome Pipe](#awesome-pipe)
+  - [Babel](#babel)
   - [C++](#c++)
   - [Elixir](#elixir)
   - [F#](#f#)
@@ -11,6 +12,10 @@ A curated list of awesome pipe libraries and programming languages.
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
+
+## Babel
+
+- [@babel/plugin-proposal-pipeline-operator](https://babeljs.io/docs/en/babel-plugin-proposal-pipeline-operator)
 
 ## C++
 
