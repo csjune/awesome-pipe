@@ -20,6 +20,7 @@ A curated list of awesome pipe libraries and programming languages.
 ## C++
 
 - [Pipable functions in C++14](http://pfultz2.com/blog/2014/09/05/pipable-functions/)
+- [joboccara/pipes](https://github.com/joboccara/pipes)
 
 ## Elixir
 
